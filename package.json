@@ -47,12 +47,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/eggjs/egg-prisma.git"
+        "url": "git+https://github.com/MiYogurt/egg-y-prisma"
     },
     "bugs": {
         "url": "https://github.com/eggjs/egg/issues"
     },
-    "homepage": "https://github.com/eggjs/egg-prisma#readme",
+    "homepage": "https://github.com/MiYogurt/egg-y-prisma#readme",
     "author": "yugo",
     "license": "MIT"
 }
